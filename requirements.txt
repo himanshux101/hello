@@ -62,7 +62,7 @@ stevedore==1.25.0
 subprocess32==3.2.7
 termcolor==1.1.0
 traitlets==4.3.2
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==15.2.0
 Werkzeug==0.14.1
 with-fixture==0.1
